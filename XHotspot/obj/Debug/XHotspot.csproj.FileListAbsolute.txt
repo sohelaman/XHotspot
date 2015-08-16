@@ -1,0 +1,9 @@
+c:\users\sohel\documents\visual studio 2013\Projects\XHotspot\XHotspot\bin\Debug\XHotspot.exe.config
+c:\users\sohel\documents\visual studio 2013\Projects\XHotspot\XHotspot\bin\Debug\XHotspot.exe
+c:\users\sohel\documents\visual studio 2013\Projects\XHotspot\XHotspot\bin\Debug\XHotspot.pdb
+c:\users\sohel\documents\visual studio 2013\Projects\XHotspot\XHotspot\obj\Debug\XHotspot.csprojResolveAssemblyReference.cache
+c:\users\sohel\documents\visual studio 2013\Projects\XHotspot\XHotspot\obj\Debug\XHotspot.Form1.resources
+c:\users\sohel\documents\visual studio 2013\Projects\XHotspot\XHotspot\obj\Debug\XHotspot.Properties.Resources.resources
+c:\users\sohel\documents\visual studio 2013\Projects\XHotspot\XHotspot\obj\Debug\XHotspot.csproj.GenerateResource.Cache
+c:\users\sohel\documents\visual studio 2013\Projects\XHotspot\XHotspot\obj\Debug\XHotspot.exe
+c:\users\sohel\documents\visual studio 2013\Projects\XHotspot\XHotspot\obj\Debug\XHotspot.pdb
